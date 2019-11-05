@@ -1,0 +1,842 @@
+==========================================
+userlog
+==========================================
+
+[2019-11-02][02:05:35]Session opened.
+[2019-11-02][02:06:34]127.0.0.1 - entered login state.
+[2019-11-02][02:06:50]127.0.0.1 = Userchang entering Game state.
+[2019-11-02][02:07:53]127.0.0.1 - entered login state.
+[2019-11-02][02:07:58]127.0.0.1 = Userjerry entering Game state.
+[2019-11-02][02:10:54]Session opened.
+[2019-11-02][02:11:01]127.0.0.1 - entered login state.
+[2019-11-02][02:11:05]127.0.0.1 = Userchang entering Game state.
+[2019-11-02][02:11:09]127.0.0.1 - entered login state.
+[2019-11-02][02:11:13]127.0.0.1 = Userjerry entering Game state.
+[2019-11-02][02:11:33]127.0.0.1 - User jerry logged off.
+[2019-11-02][02:13:10]127.0.0.1 - entered login state.
+[2019-11-02][02:13:13]127.0.0.1 = Userjerry entering Game state.
+[2019-11-02][02:25:08]Session opened.
+[2019-11-02][02:25:14]127.0.0.1 - entered login state.
+[2019-11-02][02:25:19]127.0.0.1 = Userchang entering Game state.
+[2019-11-02][02:25:23]127.0.0.1 - entered login state.
+[2019-11-02][02:25:26]127.0.0.1 = Userjerry entering Game state.
+[2019-11-02][02:26:54]Session opened.
+[2019-11-02][02:26:58]127.0.0.1 - entered login state.
+[2019-11-02][02:27:01]127.0.0.1 = Userchang entering Game state.
+[2019-11-04][01:51:05]Session opened.
+[2019-11-04][01:51:45]Session opened.
+[2019-11-04][01:52:51]Session opened.
+[2019-11-04][01:55:07]Session opened.
+[2019-11-04][01:56:35]Session opened.
+[2019-11-04][01:57:19]Session opened.
+[2019-11-04][01:59:51]Session opened.
+[2019-11-04][02:03:17]Session opened.
+[2019-11-04][02:03:45]Session opened.
+[2019-11-04][02:04:27]Session opened.
+[2019-11-04][02:04:27]Loaded Enemy: Rabid Monkey
+[2019-11-04][02:04:27]Loaded Enemy: Thug
+[2019-11-04][02:04:27]Loaded Enemy: Gangmember
+[2019-11-04][02:04:27]Loaded Enemy: Tentacle Monster
+[2019-11-04][02:04:27]Loaded Enemy: Abomination
+[2019-11-04][02:04:27]Loaded Enemy: Evil Squirrel
+[2019-11-04][02:04:27]Loaded Enemy: Monkey Trainer
+[2019-11-04][02:04:27]Loaded Enemy: Bandit
+[2019-11-04][02:04:27]Loaded Enemy: Mutant
+[2019-11-04][02:04:27]Loaded Enemy: Vagrant
+[2019-11-04][02:04:27]Loaded Enemy: Thief
+[2019-11-04][02:04:27]Loaded Enemy: Rock Lobster
+[2019-11-04][02:04:27]Loaded Enemy: Bikini Whale
+[2019-11-04][02:04:27]Loaded Enemy: Gang Leader
+[2019-11-04][02:04:27]Loaded Enemy: Ruffian
+[2019-11-04][02:04:27]Loaded Enemy: Robber
+[2019-11-04][02:04:27]Loaded Enemy: Corsair
+[2019-11-04][02:04:27]Loaded Enemy: Pirate
+[2019-11-04][02:04:27]Loaded Enemy: Captain Jack
+[2019-11-04][02:04:27]Loaded Enemy: Backstreet Boy
+[2019-11-04][02:04:48]Session opened.
+[2019-11-04][02:04:48]Loaded Enemy: Rabid Monkey
+[2019-11-04][02:04:48]Loaded Enemy: Thug
+[2019-11-04][02:04:48]Loaded Enemy: Gangmember
+[2019-11-04][02:04:48]Loaded Enemy: Tentacle Monster
+[2019-11-04][02:04:48]Loaded Enemy: Abomination
+[2019-11-04][02:04:48]Loaded Enemy: Evil Squirrel
+[2019-11-04][02:04:48]Loaded Enemy: Monkey Trainer
+[2019-11-04][02:04:48]Loaded Enemy: Bandit
+[2019-11-04][02:04:48]Loaded Enemy: Mutant
+[2019-11-04][02:04:48]Loaded Enemy: Vagrant
+[2019-11-04][02:04:48]Loaded Enemy: Thief
+[2019-11-04][02:04:48]Loaded Enemy: Rock Lobster
+[2019-11-04][02:04:48]Loaded Enemy: Bikini Whale
+[2019-11-04][02:04:48]Loaded Enemy: Gang Leader
+[2019-11-04][02:04:48]Loaded Enemy: Ruffian
+[2019-11-04][02:04:48]Loaded Enemy: Robber
+[2019-11-04][02:04:48]Loaded Enemy: Corsair
+[2019-11-04][02:04:48]Loaded Enemy: Pirate
+[2019-11-04][02:04:48]Loaded Enemy: Captain Jack
+[2019-11-04][02:04:48]Loaded Enemy: Backstreet Boy
+[2019-11-04][02:09:08]Session opened.
+[2019-11-04][02:09:09]Loaded Enemy: Rabid Monkey
+[2019-11-04][02:09:09]Loaded Enemy: Thug
+[2019-11-04][02:09:09]Loaded Enemy: Gangmember
+[2019-11-04][02:09:09]Loaded Enemy: Tentacle Monster
+[2019-11-04][02:09:09]Loaded Enemy: Abomination
+[2019-11-04][02:09:09]Loaded Enemy: Evil Squirrel
+[2019-11-04][02:09:09]Loaded Enemy: Monkey Trainer
+[2019-11-04][02:09:09]Loaded Enemy: Bandit
+[2019-11-04][02:09:09]Loaded Enemy: Mutant
+[2019-11-04][02:09:09]Loaded Enemy: Vagrant
+[2019-11-04][02:09:09]Loaded Enemy: Thief
+[2019-11-04][02:09:09]Loaded Enemy: Rock Lobster
+[2019-11-04][02:09:09]Loaded Enemy: Bikini Whale
+[2019-11-04][02:09:09]Loaded Enemy: Gang Leader
+[2019-11-04][02:09:09]Loaded Enemy: Ruffian
+[2019-11-04][02:09:09]Loaded Enemy: Robber
+[2019-11-04][02:09:09]Loaded Enemy: Corsair
+[2019-11-04][02:09:09]Loaded Enemy: Pirate
+[2019-11-04][02:09:09]Loaded Enemy: Captain Jack
+[2019-11-04][02:09:09]Loaded Enemy: Backstreet Boy
+[2019-11-04][02:10:14]Session opened.
+[2019-11-04][02:10:14]Loaded Enemy: Rabid Monkey
+[2019-11-04][02:10:14]Loaded Enemy: Thug
+[2019-11-04][02:10:14]Loaded Enemy: Gangmember
+[2019-11-04][02:10:14]Loaded Enemy: Tentacle Monster
+[2019-11-04][02:10:14]Loaded Enemy: Abomination
+[2019-11-04][02:10:14]Loaded Enemy: Evil Squirrel
+[2019-11-04][02:10:14]Loaded Enemy: Monkey Trainer
+[2019-11-04][02:10:14]Loaded Enemy: Bandit
+[2019-11-04][02:10:14]Loaded Enemy: Mutant
+[2019-11-04][02:10:14]Loaded Enemy: Vagrant
+[2019-11-04][02:10:14]Loaded Enemy: Thief
+[2019-11-04][02:10:14]Loaded Enemy: Rock Lobster
+[2019-11-04][02:10:14]Loaded Enemy: Bikini Whale
+[2019-11-04][02:10:14]Loaded Enemy: Gang Leader
+[2019-11-04][02:10:14]Loaded Enemy: Ruffian
+[2019-11-04][02:10:14]Loaded Enemy: Robber
+[2019-11-04][02:10:14]Loaded Enemy: Corsair
+[2019-11-04][02:10:14]Loaded Enemy: Pirate
+[2019-11-04][02:10:14]Loaded Enemy: Captain Jack
+[2019-11-04][02:10:14]Loaded Enemy: Backstreet Boy
+[2019-11-04][02:27:28]Session opened.
+[2019-11-04][02:27:28]Loaded Enemy: Rabid Monkey
+[2019-11-04][02:27:28]Loaded Enemy: Thug
+[2019-11-04][02:27:28]Loaded Enemy: Gangmember
+[2019-11-04][02:27:28]Loaded Enemy: Tentacle Monster
+[2019-11-04][02:27:28]Loaded Enemy: Abomination
+[2019-11-04][02:27:28]Loaded Enemy: Evil Squirrel
+[2019-11-04][02:27:28]Loaded Enemy: Monkey Trainer
+[2019-11-04][02:27:28]Loaded Enemy: Bandit
+[2019-11-04][02:27:28]Loaded Enemy: Mutant
+[2019-11-04][02:27:28]Loaded Enemy: Vagrant
+[2019-11-04][02:27:28]Loaded Enemy: Thief
+[2019-11-04][02:27:28]Loaded Enemy: Rock Lobster
+[2019-11-04][02:27:28]Loaded Enemy: Bikini Whale
+[2019-11-04][02:27:28]Loaded Enemy: Gang Leader
+[2019-11-04][02:27:28]Loaded Enemy: Ruffian
+[2019-11-04][02:27:28]Loaded Enemy: Robber
+[2019-11-04][02:27:28]Loaded Enemy: Corsair
+[2019-11-04][02:27:28]Loaded Enemy: Pirate
+[2019-11-04][02:27:28]Loaded Enemy: Captain Jack
+[2019-11-04][02:27:28]Loaded Enemy: Backstreet Boy
+[2019-11-04][02:29:55]127.0.0.1 - entered login state.
+[2019-11-04][02:30:01]127.0.0.1 = Userjerry entering Game state.
+[2019-11-04][02:31:36]Session opened.
+[2019-11-04][02:31:36]Loaded Enemy: Rabid Monkey
+[2019-11-04][02:31:36]Loaded Enemy: Thug
+[2019-11-04][02:31:36]Loaded Enemy: Gangmember
+[2019-11-04][02:31:36]Loaded Enemy: Tentacle Monster
+[2019-11-04][02:31:36]Loaded Enemy: Abomination
+[2019-11-04][02:31:36]Loaded Enemy: Evil Squirrel
+[2019-11-04][02:31:36]Loaded Enemy: Monkey Trainer
+[2019-11-04][02:31:36]Loaded Enemy: Bandit
+[2019-11-04][02:31:36]Loaded Enemy: Mutant
+[2019-11-04][02:31:36]Loaded Enemy: Vagrant
+[2019-11-04][02:31:36]Loaded Enemy: Thief
+[2019-11-04][02:31:36]Loaded Enemy: Rock Lobster
+[2019-11-04][02:31:36]Loaded Enemy: Bikini Whale
+[2019-11-04][02:31:36]Loaded Enemy: Gang Leader
+[2019-11-04][02:31:36]Loaded Enemy: Ruffian
+[2019-11-04][02:31:36]Loaded Enemy: Robber
+[2019-11-04][02:31:36]Loaded Enemy: Corsair
+[2019-11-04][02:31:36]Loaded Enemy: Pirate
+[2019-11-04][02:31:36]Loaded Enemy: Captain Jack
+[2019-11-04][02:31:36]Loaded Enemy: Backstreet Boy
+[2019-11-04][02:32:38]127.0.0.1 - entered login state.
+[2019-11-04][02:32:43]127.0.0.1 = Userjerry entering Game state.
+[2019-11-04][02:34:04]Session opened.
+[2019-11-04][02:34:04]Loaded Enemy: Rabid Monkey
+[2019-11-04][02:34:04]Loaded Enemy: Thug
+[2019-11-04][02:34:04]Loaded Enemy: Gangmember
+[2019-11-04][02:34:04]Loaded Enemy: Tentacle Monster
+[2019-11-04][02:34:04]Loaded Enemy: Abomination
+[2019-11-04][02:34:04]Loaded Enemy: Evil Squirrel
+[2019-11-04][02:34:04]Loaded Enemy: Monkey Trainer
+[2019-11-04][02:34:04]Loaded Enemy: Bandit
+[2019-11-04][02:34:04]Loaded Enemy: Mutant
+[2019-11-04][02:34:04]Loaded Enemy: Vagrant
+[2019-11-04][02:34:04]Loaded Enemy: Thief
+[2019-11-04][02:34:04]Loaded Enemy: Rock Lobster
+[2019-11-04][02:34:04]Loaded Enemy: Bikini Whale
+[2019-11-04][02:34:04]Loaded Enemy: Gang Leader
+[2019-11-04][02:34:04]Loaded Enemy: Ruffian
+[2019-11-04][02:34:04]Loaded Enemy: Robber
+[2019-11-04][02:34:04]Loaded Enemy: Corsair
+[2019-11-04][02:34:04]Loaded Enemy: Pirate
+[2019-11-04][02:34:04]Loaded Enemy: Captain Jack
+[2019-11-04][02:34:04]Loaded Enemy: Backstreet Boy
+[2019-11-04][02:34:06]127.0.0.1 - entered login state.
+[2019-11-04][02:34:11]127.0.0.1 = Userjerry entering Game state.
+[2019-11-04][02:36:52]Session opened.
+[2019-11-04][02:36:52]Loaded Enemy: Rabid Monkey
+[2019-11-04][02:36:52]Loaded Enemy: Thug
+[2019-11-04][02:36:52]Loaded Enemy: Gangmember
+[2019-11-04][02:36:52]Loaded Enemy: Tentacle Monster
+[2019-11-04][02:36:52]Loaded Enemy: Abomination
+[2019-11-04][02:36:52]Loaded Enemy: Evil Squirrel
+[2019-11-04][02:36:52]Loaded Enemy: Monkey Trainer
+[2019-11-04][02:36:52]Loaded Enemy: Bandit
+[2019-11-04][02:36:52]Loaded Enemy: Mutant
+[2019-11-04][02:36:52]Loaded Enemy: Vagrant
+[2019-11-04][02:36:52]Loaded Enemy: Thief
+[2019-11-04][02:36:52]Loaded Enemy: Rock Lobster
+[2019-11-04][02:36:52]Loaded Enemy: Bikini Whale
+[2019-11-04][02:36:52]Loaded Enemy: Gang Leader
+[2019-11-04][02:36:52]Loaded Enemy: Ruffian
+[2019-11-04][02:36:52]Loaded Enemy: Robber
+[2019-11-04][02:36:52]Loaded Enemy: Corsair
+[2019-11-04][02:36:52]Loaded Enemy: Pirate
+[2019-11-04][02:36:52]Loaded Enemy: Captain Jack
+[2019-11-04][02:36:52]Loaded Enemy: Backstreet Boy
+[2019-11-04][02:36:54]127.0.0.1 - entered login state.
+[2019-11-04][02:36:59]127.0.0.1 = Userjerry entering Game state.
+[2019-11-04][02:46:14]Session opened.
+[2019-11-04][02:46:14]Loaded Enemy: Rabid Monkey
+[2019-11-04][02:46:14]Loaded Enemy: Thug
+[2019-11-04][02:46:14]Loaded Enemy: Gangmember
+[2019-11-04][02:46:14]Loaded Enemy: Tentacle Monster
+[2019-11-04][02:46:14]Loaded Enemy: Abomination
+[2019-11-04][02:46:14]Loaded Enemy: Evil Squirrel
+[2019-11-04][02:46:14]Loaded Enemy: Monkey Trainer
+[2019-11-04][02:46:14]Loaded Enemy: Bandit
+[2019-11-04][02:46:14]Loaded Enemy: Mutant
+[2019-11-04][02:46:14]Loaded Enemy: Vagrant
+[2019-11-04][02:46:14]Loaded Enemy: Thief
+[2019-11-04][02:46:14]Loaded Enemy: Rock Lobster
+[2019-11-04][02:46:14]Loaded Enemy: Bikini Whale
+[2019-11-04][02:46:14]Loaded Enemy: Gang Leader
+[2019-11-04][02:46:14]Loaded Enemy: Ruffian
+[2019-11-04][02:46:14]Loaded Enemy: Robber
+[2019-11-04][02:46:14]Loaded Enemy: Corsair
+[2019-11-04][02:46:14]Loaded Enemy: Pirate
+[2019-11-04][02:46:14]Loaded Enemy: Captain Jack
+[2019-11-04][02:46:14]Loaded Enemy: Backstreet Boy
+[2019-11-04][02:46:47]127.0.0.1 - entered login state.
+[2019-11-04][02:46:54]127.0.0.1 = Userjerry entering Game state.
+[2019-11-04][02:48:16]Session opened.
+[2019-11-04][02:48:16]Loaded Enemy: Rabid Monkey
+[2019-11-04][02:48:16]Loaded Enemy: Thug
+[2019-11-04][02:48:16]Loaded Enemy: Gangmember
+[2019-11-04][02:48:16]Loaded Enemy: Tentacle Monster
+[2019-11-04][02:48:16]Loaded Enemy: Abomination
+[2019-11-04][02:48:16]Loaded Enemy: Evil Squirrel
+[2019-11-04][02:48:16]Loaded Enemy: Monkey Trainer
+[2019-11-04][02:48:16]Loaded Enemy: Bandit
+[2019-11-04][02:48:16]Loaded Enemy: Mutant
+[2019-11-04][02:48:16]Loaded Enemy: Vagrant
+[2019-11-04][02:48:16]Loaded Enemy: Thief
+[2019-11-04][02:48:16]Loaded Enemy: Rock Lobster
+[2019-11-04][02:48:16]Loaded Enemy: Bikini Whale
+[2019-11-04][02:48:16]Loaded Enemy: Gang Leader
+[2019-11-04][02:48:16]Loaded Enemy: Ruffian
+[2019-11-04][02:48:16]Loaded Enemy: Robber
+[2019-11-04][02:48:16]Loaded Enemy: Corsair
+[2019-11-04][02:48:16]Loaded Enemy: Pirate
+[2019-11-04][02:48:16]Loaded Enemy: Captain Jack
+[2019-11-04][02:48:16]Loaded Enemy: Backstreet Boy
+[2019-11-04][02:48:20]127.0.0.1 - entered login state.
+[2019-11-04][02:48:24]127.0.0.1 = Userjerry entering Game state.
+[2019-11-04][02:49:24]Session opened.
+[2019-11-04][02:49:24]Loaded Enemy: Rabid Monkey
+[2019-11-04][02:49:24]Loaded Enemy: Thug
+[2019-11-04][02:49:24]Loaded Enemy: Gangmember
+[2019-11-04][02:49:24]Loaded Enemy: Tentacle Monster
+[2019-11-04][02:49:24]Loaded Enemy: Abomination
+[2019-11-04][02:49:24]Loaded Enemy: Evil Squirrel
+[2019-11-04][02:49:24]Loaded Enemy: Monkey Trainer
+[2019-11-04][02:49:24]Loaded Enemy: Bandit
+[2019-11-04][02:49:24]Loaded Enemy: Mutant
+[2019-11-04][02:49:24]Loaded Enemy: Vagrant
+[2019-11-04][02:49:24]Loaded Enemy: Thief
+[2019-11-04][02:49:24]Loaded Enemy: Rock Lobster
+[2019-11-04][02:49:24]Loaded Enemy: Bikini Whale
+[2019-11-04][02:49:24]Loaded Enemy: Gang Leader
+[2019-11-04][02:49:24]Loaded Enemy: Ruffian
+[2019-11-04][02:49:24]Loaded Enemy: Robber
+[2019-11-04][02:49:24]Loaded Enemy: Corsair
+[2019-11-04][02:49:24]Loaded Enemy: Pirate
+[2019-11-04][02:49:24]Loaded Enemy: Captain Jack
+[2019-11-04][02:49:24]Loaded Enemy: Backstreet Boy
+[2019-11-04][02:49:34]127.0.0.1 - entered login state.
+[2019-11-04][02:49:38]127.0.0.1 = Userjerry entering Game state.
+[2019-11-04][02:56:55]Session opened.
+[2019-11-04][02:56:55]Loaded Enemy: Rabid Monkey
+[2019-11-04][02:56:55]Loaded Enemy: Thug
+[2019-11-04][02:56:55]Loaded Enemy: Gangmember
+[2019-11-04][02:56:55]Loaded Enemy: Tentacle Monster
+[2019-11-04][02:56:55]Loaded Enemy: Abomination
+[2019-11-04][02:56:55]Loaded Enemy: Evil Squirrel
+[2019-11-04][02:56:55]Loaded Enemy: Monkey Trainer
+[2019-11-04][02:56:55]Loaded Enemy: Bandit
+[2019-11-04][02:56:55]Loaded Enemy: Mutant
+[2019-11-04][02:56:55]Loaded Enemy: Vagrant
+[2019-11-04][02:56:55]Loaded Enemy: Thief
+[2019-11-04][02:56:55]Loaded Enemy: Rock Lobster
+[2019-11-04][02:56:55]Loaded Enemy: Bikini Whale
+[2019-11-04][02:56:55]Loaded Enemy: Gang Leader
+[2019-11-04][02:56:55]Loaded Enemy: Ruffian
+[2019-11-04][02:56:55]Loaded Enemy: Robber
+[2019-11-04][02:56:55]Loaded Enemy: Corsair
+[2019-11-04][02:56:55]Loaded Enemy: Pirate
+[2019-11-04][02:56:55]Loaded Enemy: Captain Jack
+[2019-11-04][02:56:55]Loaded Enemy: Backstreet Boy
+[2019-11-04][02:57:17]Session opened.
+[2019-11-04][02:57:17]Loaded Enemy: Rabid Monkey
+[2019-11-04][02:57:17]Loaded Enemy: Thug
+[2019-11-04][02:57:17]Loaded Enemy: Gangmember
+[2019-11-04][02:57:17]Loaded Enemy: Tentacle Monster
+[2019-11-04][02:57:17]Loaded Enemy: Abomination
+[2019-11-04][02:57:17]Loaded Enemy: Evil Squirrel
+[2019-11-04][02:57:17]Loaded Enemy: Monkey Trainer
+[2019-11-04][02:57:17]Loaded Enemy: Bandit
+[2019-11-04][02:57:17]Loaded Enemy: Mutant
+[2019-11-04][02:57:17]Loaded Enemy: Vagrant
+[2019-11-04][02:57:17]Loaded Enemy: Thief
+[2019-11-04][02:57:17]Loaded Enemy: Rock Lobster
+[2019-11-04][02:57:17]Loaded Enemy: Bikini Whale
+[2019-11-04][02:57:17]Loaded Enemy: Gang Leader
+[2019-11-04][02:57:17]Loaded Enemy: Ruffian
+[2019-11-04][02:57:17]Loaded Enemy: Robber
+[2019-11-04][02:57:17]Loaded Enemy: Corsair
+[2019-11-04][02:57:17]Loaded Enemy: Pirate
+[2019-11-04][02:57:17]Loaded Enemy: Captain Jack
+[2019-11-04][02:57:17]Loaded Enemy: Backstreet Boy
+[2019-11-04][02:58:11]127.0.0.1 - entered login state.
+[2019-11-04][02:58:15]127.0.0.1 = Userjerry entering Game state.
+[2019-11-04][03:03:11]Session opened.
+[2019-11-04][03:03:11]Loaded Enemy: Rabid Monkey
+[2019-11-04][03:03:11]Loaded Enemy: Thug
+[2019-11-04][03:03:11]Loaded Enemy: Gangmember
+[2019-11-04][03:03:11]Loaded Enemy: Tentacle Monster
+[2019-11-04][03:03:11]Loaded Enemy: Abomination
+[2019-11-04][03:03:11]Loaded Enemy: Evil Squirrel
+[2019-11-04][03:03:11]Loaded Enemy: Monkey Trainer
+[2019-11-04][03:03:11]Loaded Enemy: Bandit
+[2019-11-04][03:03:11]Loaded Enemy: Mutant
+[2019-11-04][03:03:11]Loaded Enemy: Vagrant
+[2019-11-04][03:03:11]Loaded Enemy: Thief
+[2019-11-04][03:03:11]Loaded Enemy: Rock Lobster
+[2019-11-04][03:03:11]Loaded Enemy: Bikini Whale
+[2019-11-04][03:03:11]Loaded Enemy: Gang Leader
+[2019-11-04][03:03:11]Loaded Enemy: Ruffian
+[2019-11-04][03:03:11]Loaded Enemy: Robber
+[2019-11-04][03:03:11]Loaded Enemy: Corsair
+[2019-11-04][03:03:11]Loaded Enemy: Pirate
+[2019-11-04][03:03:11]Loaded Enemy: Captain Jack
+[2019-11-04][03:03:11]Loaded Enemy: Backstreet Boy
+[2019-11-04][03:03:18]127.0.0.1 - entered login state.
+[2019-11-04][03:03:22]127.0.0.1 = Userjerry entering Game state.
+[2019-11-04][03:08:31]Session opened.
+[2019-11-04][03:08:31]Loaded Enemy: Rabid Monkey
+[2019-11-04][03:08:31]Loaded Enemy: Thug
+[2019-11-04][03:08:31]Loaded Enemy: Gangmember
+[2019-11-04][03:08:31]Loaded Enemy: Tentacle Monster
+[2019-11-04][03:08:31]Loaded Enemy: Abomination
+[2019-11-04][03:08:31]Loaded Enemy: Evil Squirrel
+[2019-11-04][03:08:31]Loaded Enemy: Monkey Trainer
+[2019-11-04][03:08:31]Loaded Enemy: Bandit
+[2019-11-04][03:08:31]Loaded Enemy: Mutant
+[2019-11-04][03:08:31]Loaded Enemy: Vagrant
+[2019-11-04][03:08:31]Loaded Enemy: Thief
+[2019-11-04][03:08:31]Loaded Enemy: Rock Lobster
+[2019-11-04][03:08:31]Loaded Enemy: Bikini Whale
+[2019-11-04][03:08:31]Loaded Enemy: Gang Leader
+[2019-11-04][03:08:31]Loaded Enemy: Ruffian
+[2019-11-04][03:08:31]Loaded Enemy: Robber
+[2019-11-04][03:08:31]Loaded Enemy: Corsair
+[2019-11-04][03:08:31]Loaded Enemy: Pirate
+[2019-11-04][03:08:31]Loaded Enemy: Captain Jack
+[2019-11-04][03:08:31]Loaded Enemy: Backstreet Boy
+[2019-11-04][03:09:23]Session opened.
+[2019-11-04][03:09:23]Loaded Enemy: Rabid Monkey
+[2019-11-04][03:09:23]Loaded Enemy: Thug
+[2019-11-04][03:09:23]Loaded Enemy: Gangmember
+[2019-11-04][03:09:23]Loaded Enemy: Tentacle Monster
+[2019-11-04][03:09:23]Loaded Enemy: Abomination
+[2019-11-04][03:09:23]Loaded Enemy: Evil Squirrel
+[2019-11-04][03:09:23]Loaded Enemy: Monkey Trainer
+[2019-11-04][03:09:23]Loaded Enemy: Bandit
+[2019-11-04][03:09:23]Loaded Enemy: Mutant
+[2019-11-04][03:09:23]Loaded Enemy: Vagrant
+[2019-11-04][03:09:23]Loaded Enemy: Thief
+[2019-11-04][03:09:23]Loaded Enemy: Rock Lobster
+[2019-11-04][03:09:23]Loaded Enemy: Bikini Whale
+[2019-11-04][03:09:23]Loaded Enemy: Gang Leader
+[2019-11-04][03:09:23]Loaded Enemy: Ruffian
+[2019-11-04][03:09:23]Loaded Enemy: Robber
+[2019-11-04][03:09:23]Loaded Enemy: Corsair
+[2019-11-04][03:09:23]Loaded Enemy: Pirate
+[2019-11-04][03:09:23]Loaded Enemy: Captain Jack
+[2019-11-04][03:09:23]Loaded Enemy: Backstreet Boy
+[2019-11-04][03:13:10]Session opened.
+[2019-11-04][03:13:10]Loaded Enemy: Rabid Monkey
+[2019-11-04][03:13:10]Loaded Enemy: Thug
+[2019-11-04][03:13:10]Loaded Enemy: Gangmember
+[2019-11-04][03:13:10]Loaded Enemy: Tentacle Monster
+[2019-11-04][03:13:10]Loaded Enemy: Abomination
+[2019-11-04][03:13:10]Loaded Enemy: Evil Squirrel
+[2019-11-04][03:13:10]Loaded Enemy: Monkey Trainer
+[2019-11-04][03:13:10]Loaded Enemy: Bandit
+[2019-11-04][03:13:10]Loaded Enemy: Mutant
+[2019-11-04][03:13:10]Loaded Enemy: Vagrant
+[2019-11-04][03:13:10]Loaded Enemy: Thief
+[2019-11-04][03:13:10]Loaded Enemy: Rock Lobster
+[2019-11-04][03:13:10]Loaded Enemy: Bikini Whale
+[2019-11-04][03:13:10]Loaded Enemy: Gang Leader
+[2019-11-04][03:13:10]Loaded Enemy: Ruffian
+[2019-11-04][03:13:10]Loaded Enemy: Robber
+[2019-11-04][03:13:10]Loaded Enemy: Corsair
+[2019-11-04][03:13:10]Loaded Enemy: Pirate
+[2019-11-04][03:13:10]Loaded Enemy: Captain Jack
+[2019-11-04][03:13:10]Loaded Enemy: Backstreet Boy
+[2019-11-04][03:14:28]Session opened.
+[2019-11-04][03:14:28]Loaded Enemy: Rabid Monkey
+[2019-11-04][03:14:28]Loaded Enemy: Thug
+[2019-11-04][03:14:28]Loaded Enemy: Gangmember
+[2019-11-04][03:14:28]Loaded Enemy: Tentacle Monster
+[2019-11-04][03:14:28]Loaded Enemy: Abomination
+[2019-11-04][03:14:28]Loaded Enemy: Evil Squirrel
+[2019-11-04][03:14:28]Loaded Enemy: Monkey Trainer
+[2019-11-04][03:14:28]Loaded Enemy: Bandit
+[2019-11-04][03:14:28]Loaded Enemy: Mutant
+[2019-11-04][03:14:28]Loaded Enemy: Vagrant
+[2019-11-04][03:14:28]Loaded Enemy: Thief
+[2019-11-04][03:14:28]Loaded Enemy: Rock Lobster
+[2019-11-04][03:14:28]Loaded Enemy: Bikini Whale
+[2019-11-04][03:14:28]Loaded Enemy: Gang Leader
+[2019-11-04][03:14:28]Loaded Enemy: Ruffian
+[2019-11-04][03:14:28]Loaded Enemy: Robber
+[2019-11-04][03:14:28]Loaded Enemy: Corsair
+[2019-11-04][03:14:28]Loaded Enemy: Pirate
+[2019-11-04][03:14:28]Loaded Enemy: Captain Jack
+[2019-11-04][03:14:28]Loaded Enemy: Backstreet Boy
+[2019-11-04][03:15:31]Session opened.
+[2019-11-04][03:15:31]Loaded Enemy: Rabid Monkey
+[2019-11-04][03:15:31]Loaded Enemy: Thug
+[2019-11-04][03:15:31]Loaded Enemy: Gangmember
+[2019-11-04][03:15:31]Loaded Enemy: Tentacle Monster
+[2019-11-04][03:15:31]Loaded Enemy: Abomination
+[2019-11-04][03:15:31]Loaded Enemy: Evil Squirrel
+[2019-11-04][03:15:31]Loaded Enemy: Monkey Trainer
+[2019-11-04][03:15:31]Loaded Enemy: Bandit
+[2019-11-04][03:15:31]Loaded Enemy: Mutant
+[2019-11-04][03:15:31]Loaded Enemy: Vagrant
+[2019-11-04][03:15:31]Loaded Enemy: Thief
+[2019-11-04][03:15:31]Loaded Enemy: Rock Lobster
+[2019-11-04][03:15:31]Loaded Enemy: Bikini Whale
+[2019-11-04][03:15:31]Loaded Enemy: Gang Leader
+[2019-11-04][03:15:31]Loaded Enemy: Ruffian
+[2019-11-04][03:15:31]Loaded Enemy: Robber
+[2019-11-04][03:15:31]Loaded Enemy: Corsair
+[2019-11-04][03:15:31]Loaded Enemy: Pirate
+[2019-11-04][03:15:31]Loaded Enemy: Captain Jack
+[2019-11-04][03:15:31]Loaded Enemy: Backstreet Boy
+[2019-11-04][03:15:47]Session opened.
+[2019-11-04][03:15:47]Loaded Enemy: Rabid Monkey
+[2019-11-04][03:15:47]Loaded Enemy: Thug
+[2019-11-04][03:15:47]Loaded Enemy: Gangmember
+[2019-11-04][03:15:47]Loaded Enemy: Tentacle Monster
+[2019-11-04][03:15:47]Loaded Enemy: Abomination
+[2019-11-04][03:15:47]Loaded Enemy: Evil Squirrel
+[2019-11-04][03:15:47]Loaded Enemy: Monkey Trainer
+[2019-11-04][03:15:47]Loaded Enemy: Bandit
+[2019-11-04][03:15:47]Loaded Enemy: Mutant
+[2019-11-04][03:15:47]Loaded Enemy: Vagrant
+[2019-11-04][03:15:47]Loaded Enemy: Thief
+[2019-11-04][03:15:47]Loaded Enemy: Rock Lobster
+[2019-11-04][03:15:47]Loaded Enemy: Bikini Whale
+[2019-11-04][03:15:47]Loaded Enemy: Gang Leader
+[2019-11-04][03:15:47]Loaded Enemy: Ruffian
+[2019-11-04][03:15:47]Loaded Enemy: Robber
+[2019-11-04][03:15:47]Loaded Enemy: Corsair
+[2019-11-04][03:15:47]Loaded Enemy: Pirate
+[2019-11-04][03:15:47]Loaded Enemy: Captain Jack
+[2019-11-04][03:15:47]Loaded Enemy: Backstreet Boy
+[2019-11-04][03:16:04]Session opened.
+[2019-11-04][03:16:04]Loaded Enemy: Rabid Monkey
+[2019-11-04][03:16:04]Loaded Enemy: Thug
+[2019-11-04][03:16:04]Loaded Enemy: Gangmember
+[2019-11-04][03:16:04]Loaded Enemy: Tentacle Monster
+[2019-11-04][03:16:04]Loaded Enemy: Abomination
+[2019-11-04][03:16:04]Loaded Enemy: Evil Squirrel
+[2019-11-04][03:16:04]Loaded Enemy: Monkey Trainer
+[2019-11-04][03:16:04]Loaded Enemy: Bandit
+[2019-11-04][03:16:04]Loaded Enemy: Mutant
+[2019-11-04][03:16:04]Loaded Enemy: Vagrant
+[2019-11-04][03:16:04]Loaded Enemy: Thief
+[2019-11-04][03:16:04]Loaded Enemy: Rock Lobster
+[2019-11-04][03:16:04]Loaded Enemy: Bikini Whale
+[2019-11-04][03:16:04]Loaded Enemy: Gang Leader
+[2019-11-04][03:16:04]Loaded Enemy: Ruffian
+[2019-11-04][03:16:04]Loaded Enemy: Robber
+[2019-11-04][03:16:04]Loaded Enemy: Corsair
+[2019-11-04][03:16:04]Loaded Enemy: Pirate
+[2019-11-04][03:16:04]Loaded Enemy: Captain Jack
+[2019-11-04][03:16:04]Loaded Enemy: Backstreet Boy
+[2019-11-04][03:16:09]127.0.0.1 - entered login state.
+[2019-11-04][03:16:14]127.0.0.1 = Userjerry entering Game state.
+[2019-11-04][03:17:52]Session opened.
+[2019-11-04][03:17:52]Loaded Enemy: Rabid Monkey
+[2019-11-04][03:17:52]Loaded Enemy: Thug
+[2019-11-04][03:17:52]Loaded Enemy: Gangmember
+[2019-11-04][03:17:52]Loaded Enemy: Tentacle Monster
+[2019-11-04][03:17:52]Loaded Enemy: Abomination
+[2019-11-04][03:17:52]Loaded Enemy: Evil Squirrel
+[2019-11-04][03:17:52]Loaded Enemy: Monkey Trainer
+[2019-11-04][03:17:52]Loaded Enemy: Bandit
+[2019-11-04][03:17:52]Loaded Enemy: Mutant
+[2019-11-04][03:17:52]Loaded Enemy: Vagrant
+[2019-11-04][03:17:52]Loaded Enemy: Thief
+[2019-11-04][03:17:52]Loaded Enemy: Rock Lobster
+[2019-11-04][03:17:52]Loaded Enemy: Bikini Whale
+[2019-11-04][03:17:52]Loaded Enemy: Gang Leader
+[2019-11-04][03:17:52]Loaded Enemy: Ruffian
+[2019-11-04][03:17:52]Loaded Enemy: Robber
+[2019-11-04][03:17:52]Loaded Enemy: Corsair
+[2019-11-04][03:17:52]Loaded Enemy: Pirate
+[2019-11-04][03:17:52]Loaded Enemy: Captain Jack
+[2019-11-04][03:17:52]Loaded Enemy: Backstreet Boy
+[2019-11-04][03:18:27]127.0.0.1 - entered login state.
+[2019-11-04][03:18:34]127.0.0.1 = Userjerry entering Game state.
+[2019-11-04][03:26:14]Session opened.
+[2019-11-04][03:26:14]Loaded Enemy: Rabid Monkey
+[2019-11-04][03:26:14]Loaded Enemy: Thug
+[2019-11-04][03:26:14]Loaded Enemy: Gangmember
+[2019-11-04][03:26:14]Loaded Enemy: Tentacle Monster
+[2019-11-04][03:26:14]Loaded Enemy: Abomination
+[2019-11-04][03:26:14]Loaded Enemy: Evil Squirrel
+[2019-11-04][03:26:14]Loaded Enemy: Monkey Trainer
+[2019-11-04][03:26:14]Loaded Enemy: Bandit
+[2019-11-04][03:26:14]Loaded Enemy: Mutant
+[2019-11-04][03:26:14]Loaded Enemy: Vagrant
+[2019-11-04][03:26:14]Loaded Enemy: Thief
+[2019-11-04][03:26:14]Loaded Enemy: Rock Lobster
+[2019-11-04][03:26:14]Loaded Enemy: Bikini Whale
+[2019-11-04][03:26:14]Loaded Enemy: Gang Leader
+[2019-11-04][03:26:14]Loaded Enemy: Ruffian
+[2019-11-04][03:26:14]Loaded Enemy: Robber
+[2019-11-04][03:26:14]Loaded Enemy: Corsair
+[2019-11-04][03:26:14]Loaded Enemy: Pirate
+[2019-11-04][03:26:14]Loaded Enemy: Captain Jack
+[2019-11-04][03:26:14]Loaded Enemy: Backstreet Boy
+[2019-11-04][03:26:21]127.0.0.1 - entered login state.
+[2019-11-04][03:26:24]127.0.0.1 = Userjerry entering Game state.
+[2019-11-04][03:30:19]Session opened.
+[2019-11-04][03:30:19]Loaded Enemy: Rabid Monkey
+[2019-11-04][03:30:19]Loaded Enemy: Thug
+[2019-11-04][03:30:19]Loaded Enemy: Gangmember
+[2019-11-04][03:30:19]Loaded Enemy: Tentacle Monster
+[2019-11-04][03:30:19]Loaded Enemy: Abomination
+[2019-11-04][03:30:19]Loaded Enemy: Evil Squirrel
+[2019-11-04][03:30:19]Loaded Enemy: Monkey Trainer
+[2019-11-04][03:30:19]Loaded Enemy: Bandit
+[2019-11-04][03:30:19]Loaded Enemy: Mutant
+[2019-11-04][03:30:19]Loaded Enemy: Vagrant
+[2019-11-04][03:30:19]Loaded Enemy: Thief
+[2019-11-04][03:30:19]Loaded Enemy: Rock Lobster
+[2019-11-04][03:30:19]Loaded Enemy: Bikini Whale
+[2019-11-04][03:30:19]Loaded Enemy: Gang Leader
+[2019-11-04][03:30:19]Loaded Enemy: Ruffian
+[2019-11-04][03:30:19]Loaded Enemy: Robber
+[2019-11-04][03:30:19]Loaded Enemy: Corsair
+[2019-11-04][03:30:19]Loaded Enemy: Pirate
+[2019-11-04][03:30:19]Loaded Enemy: Captain Jack
+[2019-11-04][03:30:19]Loaded Enemy: Backstreet Boy
+[2019-11-04][03:30:25]127.0.0.1 - entered login state.
+[2019-11-04][03:30:28]127.0.0.1 = Userjerry entering Game state.
+[2019-11-04][03:32:07]Session opened.
+[2019-11-04][03:32:07]Loaded Enemy: Rabid Monkey
+[2019-11-04][03:32:07]Loaded Enemy: Thug
+[2019-11-04][03:32:07]Loaded Enemy: Gangmember
+[2019-11-04][03:32:07]Loaded Enemy: Tentacle Monster
+[2019-11-04][03:32:07]Loaded Enemy: Abomination
+[2019-11-04][03:32:07]Loaded Enemy: Evil Squirrel
+[2019-11-04][03:32:07]Loaded Enemy: Monkey Trainer
+[2019-11-04][03:32:07]Loaded Enemy: Bandit
+[2019-11-04][03:32:07]Loaded Enemy: Mutant
+[2019-11-04][03:32:07]Loaded Enemy: Vagrant
+[2019-11-04][03:32:07]Loaded Enemy: Thief
+[2019-11-04][03:32:07]Loaded Enemy: Rock Lobster
+[2019-11-04][03:32:07]Loaded Enemy: Bikini Whale
+[2019-11-04][03:32:07]Loaded Enemy: Gang Leader
+[2019-11-04][03:32:07]Loaded Enemy: Ruffian
+[2019-11-04][03:32:07]Loaded Enemy: Robber
+[2019-11-04][03:32:07]Loaded Enemy: Corsair
+[2019-11-04][03:32:07]Loaded Enemy: Pirate
+[2019-11-04][03:32:07]Loaded Enemy: Captain Jack
+[2019-11-04][03:32:07]Loaded Enemy: Backstreet Boy
+[2019-11-04][03:32:12]127.0.0.1 - entered login state.
+[2019-11-04][03:32:28]127.0.0.1 = Userjerry entering Game state.
+[2019-11-04][03:36:24]Session opened.
+[2019-11-04][03:36:24]Loaded Enemy: Rabid Monkey
+[2019-11-04][03:36:24]Loaded Enemy: Thug
+[2019-11-04][03:36:24]Loaded Enemy: Gangmember
+[2019-11-04][03:36:24]Loaded Enemy: Tentacle Monster
+[2019-11-04][03:36:24]Loaded Enemy: Abomination
+[2019-11-04][03:36:24]Loaded Enemy: Evil Squirrel
+[2019-11-04][03:36:24]Loaded Enemy: Monkey Trainer
+[2019-11-04][03:36:24]Loaded Enemy: Bandit
+[2019-11-04][03:36:24]Loaded Enemy: Mutant
+[2019-11-04][03:36:24]Loaded Enemy: Vagrant
+[2019-11-04][03:36:24]Loaded Enemy: Thief
+[2019-11-04][03:36:24]Loaded Enemy: Rock Lobster
+[2019-11-04][03:36:24]Loaded Enemy: Bikini Whale
+[2019-11-04][03:36:24]Loaded Enemy: Gang Leader
+[2019-11-04][03:36:24]Loaded Enemy: Ruffian
+[2019-11-04][03:36:24]Loaded Enemy: Robber
+[2019-11-04][03:36:24]Loaded Enemy: Corsair
+[2019-11-04][03:36:24]Loaded Enemy: Pirate
+[2019-11-04][03:36:24]Loaded Enemy: Captain Jack
+[2019-11-04][03:36:24]Loaded Enemy: Backstreet Boy
+[2019-11-04][03:37:25]Session opened.
+[2019-11-04][03:37:25]Loaded Enemy: Rabid Monkey
+[2019-11-04][03:37:25]Loaded Enemy: Thug
+[2019-11-04][03:37:25]Loaded Enemy: Gangmember
+[2019-11-04][03:37:25]Loaded Enemy: Tentacle Monster
+[2019-11-04][03:37:25]Loaded Enemy: Abomination
+[2019-11-04][03:37:25]Loaded Enemy: Evil Squirrel
+[2019-11-04][03:37:25]Loaded Enemy: Monkey Trainer
+[2019-11-04][03:37:25]Loaded Enemy: Bandit
+[2019-11-04][03:37:25]Loaded Enemy: Mutant
+[2019-11-04][03:37:25]Loaded Enemy: Vagrant
+[2019-11-04][03:37:25]Loaded Enemy: Thief
+[2019-11-04][03:37:25]Loaded Enemy: Rock Lobster
+[2019-11-04][03:37:25]Loaded Enemy: Bikini Whale
+[2019-11-04][03:37:25]Loaded Enemy: Gang Leader
+[2019-11-04][03:37:25]Loaded Enemy: Ruffian
+[2019-11-04][03:37:25]Loaded Enemy: Robber
+[2019-11-04][03:37:25]Loaded Enemy: Corsair
+[2019-11-04][03:37:25]Loaded Enemy: Pirate
+[2019-11-04][03:37:25]Loaded Enemy: Captain Jack
+[2019-11-04][03:37:25]Loaded Enemy: Backstreet Boy
+[2019-11-04][03:37:28]127.0.0.1 - entered login state.
+[2019-11-04][03:37:35]127.0.0.1 = Userjerry entering Game state.
+[2019-11-04][03:52:02]Session opened.
+[2019-11-04][03:52:03]Loaded Enemy: Rabid Monkey
+[2019-11-04][03:52:03]Loaded Enemy: Thug
+[2019-11-04][03:52:03]Loaded Enemy: Gangmember
+[2019-11-04][03:52:03]Loaded Enemy: Tentacle Monster
+[2019-11-04][03:52:03]Loaded Enemy: Abomination
+[2019-11-04][03:52:03]Loaded Enemy: Evil Squirrel
+[2019-11-04][03:52:03]Loaded Enemy: Monkey Trainer
+[2019-11-04][03:52:03]Loaded Enemy: Bandit
+[2019-11-04][03:52:03]Loaded Enemy: Mutant
+[2019-11-04][03:52:03]Loaded Enemy: Vagrant
+[2019-11-04][03:52:03]Loaded Enemy: Thief
+[2019-11-04][03:52:03]Loaded Enemy: Rock Lobster
+[2019-11-04][03:52:03]Loaded Enemy: Bikini Whale
+[2019-11-04][03:52:03]Loaded Enemy: Gang Leader
+[2019-11-04][03:52:03]Loaded Enemy: Ruffian
+[2019-11-04][03:52:03]Loaded Enemy: Robber
+[2019-11-04][03:52:03]Loaded Enemy: Corsair
+[2019-11-04][03:52:03]Loaded Enemy: Pirate
+[2019-11-04][03:52:03]Loaded Enemy: Captain Jack
+[2019-11-04][03:52:03]Loaded Enemy: Backstreet Boy
+[2019-11-04][03:52:05]127.0.0.1 - entered login state.
+[2019-11-04][03:52:09]127.0.0.1 = Userjerry entering Game state.
+[2019-11-04][03:53:15]Session opened.
+[2019-11-04][03:53:15]Session closed.
+[2019-11-04][03:53:41]Session opened.
+[2019-11-04][03:53:41]Loaded Enemy: Rabid Monkey
+[2019-11-04][03:53:41]Loaded Enemy: Thug
+[2019-11-04][03:53:41]Loaded Enemy: Gangmember
+[2019-11-04][03:53:41]Loaded Enemy: Tentacle Monster
+[2019-11-04][03:53:41]Loaded Enemy: Abomination
+[2019-11-04][03:53:41]Loaded Enemy: Evil Squirrel
+[2019-11-04][03:53:41]Loaded Enemy: Monkey Trainer
+[2019-11-04][03:53:41]Loaded Enemy: Bandit
+[2019-11-04][03:53:41]Loaded Enemy: Mutant
+[2019-11-04][03:53:41]Loaded Enemy: Vagrant
+[2019-11-04][03:53:41]Loaded Enemy: Thief
+[2019-11-04][03:53:41]Loaded Enemy: Rock Lobster
+[2019-11-04][03:53:41]Loaded Enemy: Bikini Whale
+[2019-11-04][03:53:41]Loaded Enemy: Gang Leader
+[2019-11-04][03:53:41]Loaded Enemy: Ruffian
+[2019-11-04][03:53:41]Loaded Enemy: Robber
+[2019-11-04][03:53:41]Loaded Enemy: Corsair
+[2019-11-04][03:53:41]Loaded Enemy: Pirate
+[2019-11-04][03:53:41]Loaded Enemy: Captain Jack
+[2019-11-04][03:53:41]Loaded Enemy: Backstreet Boy
+[2019-11-04][03:53:43]127.0.0.1 - entered login state.
+[2019-11-04][03:53:48]127.0.0.1 = Userjerry entering Game state.
+[2019-11-04][03:55:10]Session opened.
+[2019-11-04][03:55:10]Loaded Enemy: Rabid Monkey
+[2019-11-04][03:55:10]Loaded Enemy: Thug
+[2019-11-04][03:55:10]Loaded Enemy: Gangmember
+[2019-11-04][03:55:10]Loaded Enemy: Tentacle Monster
+[2019-11-04][03:55:10]Loaded Enemy: Abomination
+[2019-11-04][03:55:10]Loaded Enemy: Evil Squirrel
+[2019-11-04][03:55:10]Loaded Enemy: Monkey Trainer
+[2019-11-04][03:55:10]Loaded Enemy: Bandit
+[2019-11-04][03:55:10]Loaded Enemy: Mutant
+[2019-11-04][03:55:10]Loaded Enemy: Vagrant
+[2019-11-04][03:55:10]Loaded Enemy: Thief
+[2019-11-04][03:55:10]Loaded Enemy: Rock Lobster
+[2019-11-04][03:55:10]Loaded Enemy: Bikini Whale
+[2019-11-04][03:55:10]Loaded Enemy: Gang Leader
+[2019-11-04][03:55:10]Loaded Enemy: Ruffian
+[2019-11-04][03:55:10]Loaded Enemy: Robber
+[2019-11-04][03:55:10]Loaded Enemy: Corsair
+[2019-11-04][03:55:10]Loaded Enemy: Pirate
+[2019-11-04][03:55:10]Loaded Enemy: Captain Jack
+[2019-11-04][03:55:10]Loaded Enemy: Backstreet Boy
+[2019-11-04][03:55:12]127.0.0.1 - entered login state.
+[2019-11-04][03:55:16]127.0.0.1 = Userjerry entering Game state.
+[2019-11-04][03:57:07]Session opened.
+[2019-11-04][03:57:07]Loaded Enemy: Rabid Monkey
+[2019-11-04][03:57:07]Loaded Enemy: Thug
+[2019-11-04][03:57:07]Loaded Enemy: Gangmember
+[2019-11-04][03:57:07]Loaded Enemy: Tentacle Monster
+[2019-11-04][03:57:07]Loaded Enemy: Abomination
+[2019-11-04][03:57:07]Loaded Enemy: Evil Squirrel
+[2019-11-04][03:57:07]Loaded Enemy: Monkey Trainer
+[2019-11-04][03:57:07]Loaded Enemy: Bandit
+[2019-11-04][03:57:07]Loaded Enemy: Mutant
+[2019-11-04][03:57:07]Loaded Enemy: Vagrant
+[2019-11-04][03:57:07]Loaded Enemy: Thief
+[2019-11-04][03:57:07]Loaded Enemy: Rock Lobster
+[2019-11-04][03:57:07]Loaded Enemy: Bikini Whale
+[2019-11-04][03:57:07]Loaded Enemy: Gang Leader
+[2019-11-04][03:57:07]Loaded Enemy: Ruffian
+[2019-11-04][03:57:07]Loaded Enemy: Robber
+[2019-11-04][03:57:07]Loaded Enemy: Corsair
+[2019-11-04][03:57:07]Loaded Enemy: Pirate
+[2019-11-04][03:57:07]Loaded Enemy: Captain Jack
+[2019-11-04][03:57:07]Loaded Enemy: Backstreet Boy
+[2019-11-04][03:57:10]127.0.0.1 - entered login state.
+[2019-11-04][03:57:14]127.0.0.1 = Userjerry entering Game state.
+[2019-11-04][03:58:00]Session opened.
+[2019-11-04][03:58:01]Loaded Enemy: Rabid Monkey
+[2019-11-04][03:58:01]Loaded Enemy: Thug
+[2019-11-04][03:58:01]Loaded Enemy: Gangmember
+[2019-11-04][03:58:01]Loaded Enemy: Tentacle Monster
+[2019-11-04][03:58:01]Loaded Enemy: Abomination
+[2019-11-04][03:58:01]Loaded Enemy: Evil Squirrel
+[2019-11-04][03:58:01]Loaded Enemy: Monkey Trainer
+[2019-11-04][03:58:01]Loaded Enemy: Bandit
+[2019-11-04][03:58:01]Loaded Enemy: Mutant
+[2019-11-04][03:58:01]Loaded Enemy: Vagrant
+[2019-11-04][03:58:01]Loaded Enemy: Thief
+[2019-11-04][03:58:01]Loaded Enemy: Rock Lobster
+[2019-11-04][03:58:01]Loaded Enemy: Bikini Whale
+[2019-11-04][03:58:01]Loaded Enemy: Gang Leader
+[2019-11-04][03:58:01]Loaded Enemy: Ruffian
+[2019-11-04][03:58:01]Loaded Enemy: Robber
+[2019-11-04][03:58:01]Loaded Enemy: Corsair
+[2019-11-04][03:58:01]Loaded Enemy: Pirate
+[2019-11-04][03:58:01]Loaded Enemy: Captain Jack
+[2019-11-04][03:58:01]Loaded Enemy: Backstreet Boy
+[2019-11-04][03:58:03]127.0.0.1 - entered login state.
+[2019-11-04][03:58:07]127.0.0.1 = Userjerry entering Game state.
+[2019-11-04][04:00:05]Session opened.
+[2019-11-04][04:00:06]Loaded Enemy: Rabid Monkey
+[2019-11-04][04:00:06]Loaded Enemy: Thug
+[2019-11-04][04:00:06]Loaded Enemy: Gangmember
+[2019-11-04][04:00:06]Loaded Enemy: Tentacle Monster
+[2019-11-04][04:00:06]Loaded Enemy: Abomination
+[2019-11-04][04:00:06]Loaded Enemy: Evil Squirrel
+[2019-11-04][04:00:06]Loaded Enemy: Monkey Trainer
+[2019-11-04][04:00:06]Loaded Enemy: Bandit
+[2019-11-04][04:00:06]Loaded Enemy: Mutant
+[2019-11-04][04:00:06]Loaded Enemy: Vagrant
+[2019-11-04][04:00:06]Loaded Enemy: Thief
+[2019-11-04][04:00:06]Loaded Enemy: Rock Lobster
+[2019-11-04][04:00:06]Loaded Enemy: Bikini Whale
+[2019-11-04][04:00:06]Loaded Enemy: Gang Leader
+[2019-11-04][04:00:06]Loaded Enemy: Ruffian
+[2019-11-04][04:00:06]Loaded Enemy: Robber
+[2019-11-04][04:00:06]Loaded Enemy: Corsair
+[2019-11-04][04:00:06]Loaded Enemy: Pirate
+[2019-11-04][04:00:06]Loaded Enemy: Captain Jack
+[2019-11-04][04:00:06]Loaded Enemy: Backstreet Boy
+[2019-11-04][04:00:11]127.0.0.1 - entered login state.
+[2019-11-04][04:00:16]127.0.0.1 = Userjerry entering Game state.
+[2019-11-04][04:06:38]Session opened.
+[2019-11-04][04:06:38]Loaded Enemy: Rabid Monkey
+[2019-11-04][04:06:38]Loaded Enemy: Thug
+[2019-11-04][04:06:38]Loaded Enemy: Gangmember
+[2019-11-04][04:06:38]Loaded Enemy: Tentacle Monster
+[2019-11-04][04:06:38]Loaded Enemy: Abomination
+[2019-11-04][04:06:38]Loaded Enemy: Evil Squirrel
+[2019-11-04][04:06:38]Loaded Enemy: Monkey Trainer
+[2019-11-04][04:06:38]Loaded Enemy: Bandit
+[2019-11-04][04:06:38]Loaded Enemy: Mutant
+[2019-11-04][04:06:38]Loaded Enemy: Vagrant
+[2019-11-04][04:06:38]Loaded Enemy: Thief
+[2019-11-04][04:06:38]Loaded Enemy: Rock Lobster
+[2019-11-04][04:06:38]Loaded Enemy: Bikini Whale
+[2019-11-04][04:06:38]Loaded Enemy: Gang Leader
+[2019-11-04][04:06:38]Loaded Enemy: Ruffian
+[2019-11-04][04:06:38]Loaded Enemy: Robber
+[2019-11-04][04:06:38]Loaded Enemy: Corsair
+[2019-11-04][04:06:38]Loaded Enemy: Pirate
+[2019-11-04][04:06:38]Loaded Enemy: Captain Jack
+[2019-11-04][04:06:38]Loaded Enemy: Backstreet Boy
+[2019-11-04][04:06:40]127.0.0.1 - entered login state.
+[2019-11-04][04:06:44]127.0.0.1 = Userjerry entering Game state.
+[2019-11-04][04:11:28]Session opened.
+[2019-11-04][04:11:29]Loaded Enemy: Rabid Monkey
+[2019-11-04][04:11:29]Loaded Enemy: Thug
+[2019-11-04][04:11:29]Loaded Enemy: Gangmember
+[2019-11-04][04:11:29]Loaded Enemy: Tentacle Monster
+[2019-11-04][04:11:29]Loaded Enemy: Abomination
+[2019-11-04][04:11:29]Loaded Enemy: Evil Squirrel
+[2019-11-04][04:11:29]Loaded Enemy: Monkey Trainer
+[2019-11-04][04:11:29]Loaded Enemy: Bandit
+[2019-11-04][04:11:29]Loaded Enemy: Mutant
+[2019-11-04][04:11:29]Loaded Enemy: Vagrant
+[2019-11-04][04:11:29]Loaded Enemy: Thief
+[2019-11-04][04:11:29]Loaded Enemy: Rock Lobster
+[2019-11-04][04:11:29]Loaded Enemy: Bikini Whale
+[2019-11-04][04:11:29]Loaded Enemy: Gang Leader
+[2019-11-04][04:11:29]Loaded Enemy: Ruffian
+[2019-11-04][04:11:29]Loaded Enemy: Robber
+[2019-11-04][04:11:29]Loaded Enemy: Corsair
+[2019-11-04][04:11:29]Loaded Enemy: Pirate
+[2019-11-04][04:11:29]Loaded Enemy: Captain Jack
+[2019-11-04][04:11:29]Loaded Enemy: Backstreet Boy
+[2019-11-04][04:11:33]127.0.0.1 - entered login state.
+[2019-11-04][04:11:38]127.0.0.1 = Userjerry entering Game state.
+[2019-11-04][04:13:56]Session opened.
+[2019-11-04][04:13:56]Loaded Enemy: Rabid Monkey
+[2019-11-04][04:13:56]Loaded Enemy: Thug
+[2019-11-04][04:13:56]Loaded Enemy: Gangmember
+[2019-11-04][04:13:56]Loaded Enemy: Tentacle Monster
+[2019-11-04][04:13:56]Loaded Enemy: Abomination
+[2019-11-04][04:13:56]Loaded Enemy: Evil Squirrel
+[2019-11-04][04:13:56]Loaded Enemy: Monkey Trainer
+[2019-11-04][04:13:56]Loaded Enemy: Bandit
+[2019-11-04][04:13:56]Loaded Enemy: Mutant
+[2019-11-04][04:13:56]Loaded Enemy: Vagrant
+[2019-11-04][04:13:56]Loaded Enemy: Thief
+[2019-11-04][04:13:56]Loaded Enemy: Rock Lobster
+[2019-11-04][04:13:56]Loaded Enemy: Bikini Whale
+[2019-11-04][04:13:56]Loaded Enemy: Gang Leader
+[2019-11-04][04:13:56]Loaded Enemy: Ruffian
+[2019-11-04][04:13:56]Loaded Enemy: Robber
+[2019-11-04][04:13:56]Loaded Enemy: Corsair
+[2019-11-04][04:13:56]Loaded Enemy: Pirate
+[2019-11-04][04:13:56]Loaded Enemy: Captain Jack
+[2019-11-04][04:13:56]Loaded Enemy: Backstreet Boy
+[2019-11-04][04:13:59]127.0.0.1 - entered login state.
+[2019-11-04][04:14:03]127.0.0.1 = Userjerry entering Game state.
+[2019-11-04][04:19:52]127.0.0.1 - entered login state.
+[2019-11-04][04:20:18]127.0.0.1 = Userchang entering Game state.
